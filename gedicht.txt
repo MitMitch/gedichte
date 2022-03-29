@@ -3,9 +3,9 @@ Farbpalette
 
 
 Rot
-
+magenta
 Grün
-
+gelb
 Blau
 
 Sind alles tolle Farben.
